@@ -2,7 +2,6 @@ import os
 import time
 import io
 from datetime import datetime
-import sounddevice as sd
 import scipy.io.wavfile as wav
 import speech_recognition as sr
 from gtts import gTTS
